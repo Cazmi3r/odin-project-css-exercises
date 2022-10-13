@@ -1,0 +1,17 @@
+.odd {
+    background-color: rgb(209, 99, 117);
+    font: 'Verdana', 'DejaVu Sans', 'sans-serif';
+
+}
+#elementTwo {
+    color: rgb(35, 35, 238);
+    font-size: 24px;
+}
+#elementThree {
+    font-size: 24px;
+}
+#elementFour {
+    background-color: rgb(13, 153, 13);
+    font-size: 24px;
+    font-weight: bold;
+}
